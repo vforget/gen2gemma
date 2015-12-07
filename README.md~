@@ -1,6 +1,0 @@
-# CONVERT IMPUTE2 to GEMMA FORMAT
-
-## REQUIREMENTS
-
- * Requires file in IMPUTE2 GEN format.
- * Assumes first 5 columns of GEN file are SNP descriptives and not genotype probabilities.  
